@@ -1,0 +1,1 @@
+gcc -o assets.exe src/*.c -lm

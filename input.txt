@@ -1,0 +1,6 @@
+0 
+./inputs/all_sn.txt 
+1 
+0 
+50 
+0 
